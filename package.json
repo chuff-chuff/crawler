@@ -4,7 +4,7 @@
   "description": "",
   "main": "download-node-func.js",
   "dependencies": {
-    "async": "^2.6.3",
+    "async": "^3.1.0",
     "rsvp": "^4.8.5"
   },
   "devDependencies": {},
